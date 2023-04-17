@@ -1,0 +1,9 @@
+addEventListener("load",()=>{
+	console.log("funciona");
+});
+
+//window.scroll({
+//  top: 100,
+//  left: 100,
+//  behavior: 'smooth'
+//});
